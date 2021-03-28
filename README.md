@@ -1,4 +1,4 @@
-# How to use consul dotnet 5 for configuration management
+# How to use consul with dotnet 5 for configuration management
 
 ##### 1. Starting consul with docker
 
