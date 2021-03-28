@@ -72,3 +72,12 @@ public static IHostBuilder CreateHostBuilder(string[] args) =>
 ##### 6. Use IOptionsSnapshot
 
 If you want the values of your class created according to the options pattern to change when your data changes, you should use IOptionsSnapshot. (Ref = `` PushNotificationsController``)
+
+
+##### Ref
+
+https://medium.com/@peacecwz/net-core-consul-configuration-kullan%C4%B1m%C4%B1-16e3e068b18c
+
+https://www.c-sharpcorner.com/article/dynamic-asp-net-core-configurations-with-consul-kv/
+
+https://www.natmarchand.fr/consul-configuration-aspnet-core/
